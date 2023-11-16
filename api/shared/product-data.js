@@ -18,6 +18,12 @@ const data = {
       description: 'Bag of 7 fresh McIntosh apples',
       quantity: 1,
     },
+    {
+      id: 40,
+      name: 'Potatoes',
+      description: '5Kg of fresh King Edward Potatoes',
+      quantity: 1,
+    },
   ],
 };
 
